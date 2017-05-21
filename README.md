@@ -23,11 +23,10 @@ Download the code and images of cars from the repository. Open the code in any e
 2 min demo video that demonstrates how your project works and how to run it. Upload video to vimeo or youtube. (Vimeo is preferable as it is easy to open in SDU)
 
 ### Poster
-A2 format
-[Poster](Car Number Identifier.pdf)
+Click to see the [poster.](CarNumberIdentifier.pdf)
 
 ### Presentation
-2 min presentation with slides ...
+
 [Presentation](pdf/presentation.pdf)
 
 # Best of Luck!
