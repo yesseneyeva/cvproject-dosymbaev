@@ -24,7 +24,7 @@ Download the code and images of cars from the repository. Open the code in any e
 
 ### Poster
 A2 format
-[Poster](pdf/poster.pdf)
+[Poster](Car Number Identifier.pdf)
 
 ### Presentation
 2 min presentation with slides ...
