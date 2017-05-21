@@ -1,5 +1,8 @@
 ## Final Project on Computer Vision, 2017
 
+<p align="center"><img src="img/projectlogo.png" /></p>
+
+
 | Title                          | Author         |
 | ------------------------------ | -------------- |
 | _🇰🇿 Car Number Identifier_ | _Dias Dosymbaev_ |
