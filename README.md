@@ -14,7 +14,7 @@
 | Presentation  | 0     | 5 points   |
 
 ### Abstract
-Car Counting is the most advanced infrared car counter in the world. It is accurate, reliable, easy to install, low maintenance, and very affordable. Many companies, buldings, and other businesses are taking advantage of the many benefits these systems provide. Virtually any type of business can benefit from the data our Car Counting provide.
+Car number identifier works with all types of plates. It is accurate, reliable, easy to install, low maintenance, and very affordable. Originally, it was made to automate the security check system work. It effectively solves this problem.
 
 ### How to build and run
 Download the code and images of cars from the repository. Open the code in any enviorment with pre-built OpenCV libraries and enjoy!
