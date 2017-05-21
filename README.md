@@ -23,13 +23,13 @@
 > Download *the code and images of cars* from the repository. Open the code in any enviorment with pre-built **OpenCV** libraries and enjoy!
 
 ### Demo
-2 min demo video that demonstrates how your project works and how to run it. Upload video to vimeo or youtube. (Vimeo is preferable as it is easy to open in SDU)
+> 2 min demo video that demonstrates how your project works and how to run it. Upload video to vimeo or youtube. (Vimeo is preferable as it is easy to open in SDU)
 
 ### Poster
-Click to see the [poster.](pdf/CarNumberIdentifier.pdf)
+```[Click to see the poster.](pdf/CarNumberIdentifier.pdf)```
 
 ### Presentation
 
-[Presentation](pdf/presentation.pdf)
+```[Click to see the presentation](pdf/presentation.pdf)```
 
 # Best of Luck!
