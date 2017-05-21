@@ -20,7 +20,7 @@
 > **Car Number Identifier** works with all types of plates. It is accurate, reliable, easy to install, low maintenance, and very affordable. Originally, it was made to automate the security check system work. It effectively solves this problem.
 
 ### How to build and run
-> Download *the code and images of cars* from the repository. Open the code in any enviorment with pre-built **OpenCV** libraries and enjoy!
+> Download *the code and images of cars* from the repository. Open the code from the project folder in any enviorment with pre-built **OpenCV** libraries and enjoy!
 
 ### Demo
 [Click to watch the demo.](http://www.google.com)
