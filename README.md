@@ -1,6 +1,6 @@
 ## Final Project on Computer Vision, 2017
 
-<p align="center"><img src="img/projectlogo.png" /></p>
+<p align="center" width=250><img src="img/projectlogo.png" /></p>
 
 
 | Title                          | Author         |
@@ -26,7 +26,7 @@ Download the code and images of cars from the repository. Open the code in any e
 2 min demo video that demonstrates how your project works and how to run it. Upload video to vimeo or youtube. (Vimeo is preferable as it is easy to open in SDU)
 
 ### Poster
-Click to see the [poster.](CarNumberIdentifier.pdf)
+Click to see the [poster.](pdf/CarNumberIdentifier.pdf)
 
 ### Presentation
 
