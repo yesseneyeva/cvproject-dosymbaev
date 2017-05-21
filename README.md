@@ -1,6 +1,6 @@
 ## Final Project on Computer Vision, 2017
 
-<p align="center"><img src="img/projectlogo.png" width="240" height="180" /></p>
+<p align="center"><img src="img/projectlogo.png" width="579" height="223" /></p>
 
 
 | Title                          | Author         |
