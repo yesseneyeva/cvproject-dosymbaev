@@ -30,6 +30,6 @@
 
 ### Presentation
 
-[Click to see the presentation](pdf/presentation.pdf)
+[Click to see the presentation](pdf/Presentation.pdf)
 
 # Best of Luck!
