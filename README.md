@@ -23,7 +23,7 @@
 > Download *the code and images of cars* from the repository. Open the code from the project folder in any enviorment with pre-built **OpenCV** libraries and enjoy!
 
 ### Demo
-[Click to watch the demo.](http://www.google.com)
+[Click to watch the demo.](https://vimeo.com/218393991)
 
 ### Poster
 [Click to see the poster.](pdf/CarNumberIdentifier.pdf)
